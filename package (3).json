@@ -1,0 +1,11 @@
+{
+  "name": "tonup-withdraw-bot",
+  "version": "1.0.0",
+  "main": "withdraw-bot.js",
+  "scripts": { "start": "node withdraw-bot.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "pg": "^8.13.1",
+    "telegraf": "^4.16.3"
+  }
+}

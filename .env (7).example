@@ -1,0 +1,14 @@
+DATABASE_URL=postgres://user:pass@host:5432/dbname
+BOT_TOKEN=123456:ABC...
+ALLOWED_ORIGINS=https://ВАШ-ДОМЕН-ФРОНТЕНДА
+START_BALANCE=0
+CRYPTO_PAY_TOKEN=
+TON_HOUSE_WALLET=
+TONCENTER_KEY=
+TASK_CHANNEL_ID=@your_channel
+TASK_CHANNEL_URL=https://t.me/your_channel
+TASK_CHAT_ID=@your_chat
+TASK_CHAT_URL=https://t.me/your_chat
+TG_WEBHOOK_SECRET=придумайте_длинную_случайную_строку
+PUBLIC_URL=https://tonup-backend.onrender.com
+STAR_TON_RATE=0
