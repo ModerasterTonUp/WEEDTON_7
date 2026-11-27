@@ -3,7 +3,7 @@
  * TonUp realtime server  —  Ракетка (crash) + PvP Solo + PvP TvT (Ice vs Fire)
  * + PostgreSQL (балансы), пополнение TON (Crypto Pay / прямой перевод через TON Connect),
  *   задания (проверка подписки через Telegram getChatMember), приём подарков (вебхук бота).
- *
+ *  
  * Раунды игр по-прежнему живут в оперативной памяти, а ВСЕ деньги — в PostgreSQL:
  * каждое списание/начисление — атомарный UPDATE users SET balance = balance ± x.
  *
